@@ -14,6 +14,8 @@ Coding Techniques - Implements contracts, coding to the interface, seperation of
 
 Testing - Extensively tested using JUnit to ensure reliability and stability of the code.
 
+Documentation - Sufficient documentation provided in folder such as UMLs, functional/non-functional requirements, testing documentation, as well as things like comments, contracts, and pull requests from code reviews.
+
 
 **Installation and Setup**:
 
